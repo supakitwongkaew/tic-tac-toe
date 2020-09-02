@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/css/main.acb2ade7.chunk.css",
-    "main.js": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/main.64d73971.chunk.js",
-    "main.js.map": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/main.64d73971.chunk.js.map",
-    "runtime-main.js": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/runtime-main.1827b24f.js",
-    "runtime-main.js.map": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/runtime-main.1827b24f.js.map",
-    "static/js/2.c5010d1a.chunk.js": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/2.c5010d1a.chunk.js",
-    "static/js/2.c5010d1a.chunk.js.map": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/2.c5010d1a.chunk.js.map",
-    "index.html": "https://github.com/supakitwongkaew/tic-tac-toe.git/index.html",
-    "precache-manifest.10a6751f0d0d43e786058bf90152cd8d.js": "https://github.com/supakitwongkaew/tic-tac-toe.git/precache-manifest.10a6751f0d0d43e786058bf90152cd8d.js",
-    "service-worker.js": "https://github.com/supakitwongkaew/tic-tac-toe.git/service-worker.js",
-    "static/css/main.acb2ade7.chunk.css.map": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/css/main.acb2ade7.chunk.css.map",
-    "static/js/2.c5010d1a.chunk.js.LICENSE.txt": "https://github.com/supakitwongkaew/tic-tac-toe.git/static/js/2.c5010d1a.chunk.js.LICENSE.txt"
+    "main.css": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/css/main.acb2ade7.chunk.css",
+    "main.js": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/main.64d73971.chunk.js",
+    "main.js.map": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/main.64d73971.chunk.js.map",
+    "runtime-main.js": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/runtime-main.c2be1b5f.js",
+    "runtime-main.js.map": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/runtime-main.c2be1b5f.js.map",
+    "static/js/2.c5010d1a.chunk.js": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/2.c5010d1a.chunk.js",
+    "static/js/2.c5010d1a.chunk.js.map": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/2.c5010d1a.chunk.js.map",
+    "index.html": "https://supakitwongkaew.github.io/tic-tac-toe.git/index.html",
+    "precache-manifest.d34c7605861609130103b553933064ed.js": "https://supakitwongkaew.github.io/tic-tac-toe.git/precache-manifest.d34c7605861609130103b553933064ed.js",
+    "service-worker.js": "https://supakitwongkaew.github.io/tic-tac-toe.git/service-worker.js",
+    "static/css/main.acb2ade7.chunk.css.map": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/css/main.acb2ade7.chunk.css.map",
+    "static/js/2.c5010d1a.chunk.js.LICENSE.txt": "https://supakitwongkaew.github.io/tic-tac-toe.git/static/js/2.c5010d1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1827b24f.js",
+    "static/js/runtime-main.c2be1b5f.js",
     "static/js/2.c5010d1a.chunk.js",
     "static/css/main.acb2ade7.chunk.css",
     "static/js/main.64d73971.chunk.js"
